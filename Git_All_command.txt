@@ -1,0 +1,8 @@
+1. git status  // for check current directory is git repository or not
+
+// if the repository is not git repository then run this command
+2. git init // this command is for initialized git repository
+
+3. git add --a  // this command is for add all file to staging area
+
+4.git commit -m " initial commit "  // for commit file and send message with them
