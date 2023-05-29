@@ -6,3 +6,5 @@
 3. git add --a  // this command is for add all file to staging area
 
 4.git commit -m " initial commit "  // for commit file and send message with them
+
+5. git log // for know how many commit you are performed 
